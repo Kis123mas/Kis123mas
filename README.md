@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanue Solomon</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Solomon</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kis123mas" alt="kis123mas" /></a> </p>
