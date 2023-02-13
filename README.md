@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angel Nsa</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Ezekiel Solomon</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kis123mas" alt="kis123mas" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html, css, python, c**
 
-- 📫 How to reach me ***dorothynsa@gmail.com
+- 📫 How to reach me **emmanuelezekielsolomon@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
